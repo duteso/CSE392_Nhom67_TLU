@@ -14,8 +14,8 @@ Kho lưu trữ chính thức của **Nhóm 67** thuộc học phần **Quản l�
 | :-: | :--- | :-: | :--- | :--- |
 | 1 | **Dương Thế Sơn** | `[NT]` | Project Manager / Member | `[@duteso]` |
 | 2 | **Vũ Huy Hoàng** | `[TV]` | Business Analyst / Member | `[@HuyHoang5906]` |
-| 3 | **Nguyễn Thạc Gia Huy** | `[TV]` | Developer / Member | `[@Raph7626]` |
-| 4 | **Hoàng Ngọc Tú** | `[TV]` | Tester & Docs / Member | `[@rainlyyy]` |
+| 3 | **Nguyễn Thạc Gia Huy** | `[TV]` | Developer / Member | `[@rainlyyy]` |
+| 4 | **Hoàng Ngọc Tú** | `[TV]` | Tester & Docs / Member | `[@Raph7626]` |
 
 ---
 
